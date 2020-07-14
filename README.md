@@ -42,8 +42,8 @@ SQL `[##........]`
 
 
 ### Интересы
-System administration
-Python (Django, Flask, Scrapy)  
-Linux  
-PostgreSQL, MongoDB  
+System administration,
+Python (Django, Flask, Scrapy),  
+Linux,  
+PostgreSQL, MongoDB,  
 Data Science
