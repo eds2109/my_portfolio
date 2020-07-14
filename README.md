@@ -11,17 +11,17 @@
 
 
 ### Языки программирования.
-Python     `[####......]`    
-HTML/CSS   `[###.......]`  
-PHP        `[#.........]`
-JavaScript `[#.........]`
+Python     `[####......]`,    
+HTML/CSS   `[###.......]`, 
+PHP        `[#.........]`,
+JavaScript `[#.........]`.
 
 
 ### Фреймворки, модули python
-Django  `[##........]`
-Flask   `[#.........]`
-Scrapy  `[##........]`
-Tkinter `[##........]`
+Django  `[##........]`,
+Flask   `[#.........]`,
+Scrapy  `[##........]`,
+Tkinter `[##........]`.
 
 ### Тестирование
 Unit Testing `[###.......]`  
@@ -32,13 +32,13 @@ SQL `[##........]`
 
 ### Инструменты и навыки
 [System administration](https://en.wikipedia.org/wiki/System_administrator) `[#######...]` - опыт работы более 10 лет.
-[linux OS](https://www.linux.org) `[#######...]`
-[Windows OS](www.microsoft.com/) `[#######...]`
-[linux terminal](https://ubuntu.com/tutorials/command-line-for-beginners)`[#####.....]`
-[PyCharm](https://www.jetbrains.com/pycharm) `[##.........]`
-[Sublime text](https://www.sublimetext.com) `[#######...]`
-[Vim](https://www.vim.org) `[###.......]`
-[Git](https://git-scm.com) `[#.........]`   
+[linux OS](https://www.linux.org) `[#######...]`.
+[Windows OS](www.microsoft.com/) `[#######...]`.
+[linux terminal](https://ubuntu.com/tutorials/command-line-for-beginners)`[#####.....]`.
+[PyCharm](https://www.jetbrains.com/pycharm) `[##.........]`.
+[Sublime text](https://www.sublimetext.com) `[#######...]`.
+[Vim](https://www.vim.org) `[###.......]`.
+[Git](https://git-scm.com) `[#.........]`.  
 
 
 ### Интересы
