@@ -2,12 +2,12 @@
 ## Профиль моих навыков
 =======================
 ## Профили.
-[Stepik](https://stepik.org/users/242248235)
+[Stepik аккаунт](https://stepik.org/users/242248235)
 
 ## Обучение.
 [Stepik. Программирование на Python](https://stepik.org/course/67) `[##########]`,
 [Stepik. Инди-курс программирования на Python](https://stepik.org/course/63085) `[########..]`,
-[Stepik. Основы программирования на языке Python в примерах и задачах](https://stepik.org/course/58638) `[#######...]`
+[Stepik. Основы программирования на языке Python в примерах и задачах](https://stepik.org/course/58638) `[#######...]`.
 
 
 ## Языки программирования.
