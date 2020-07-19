@@ -5,30 +5,30 @@
 [Stepik аккаунт](https://stepik.org/users/242248235)
 
 ### Обучение.
-[Stepik. Программирование на Python](https://stepik.org/course/67) `[##########]`,
-[Stepik. Инди-курс программирования на Python](https://stepik.org/course/63085) `[########..]`,
+[Stepik. Программирование на Python](https://stepik.org/course/67) `[##########]`.
+[Stepik. Инди-курс программирования на Python](https://stepik.org/course/63085) `[########..]`.
 [Stepik. Основы программирования на языке Python в примерах и задачах](https://stepik.org/course/58638) `[#######...]`.
 
 
 ### Языки программирования.
-Python     `[####......]`,
-HTML/CSS   `[#######...]`, 
-PHP        `[##........]`,
-JavaScript `[##........]`.
+* Python     `[####......]`.
+* HTML/CSS   `[#######...]`. 
+* PHP        `[##........]`.
+* JavaScript `[##........]`.
 
 
 ### Фреймворки, модули
-Bootstrap`[#####.....]`,
-Django   `[##........]`,
-Flask    `[#.........]`,
-Scrapy   `[##........]`,
-Tkinter  `[##........]`.
+* Bootstrap`[#####.....]`.
+* Django   `[##........]`.
+* Flask    `[#.........]`.
+* Scrapy   `[##........]`.
+* Tkinter  `[##........]`.
 
 ### Тестирование
-Unit Testing `[###.......]`  
+Unit Testing `[###.......]`.  
 
 ### Хранилища данных
-SQL `[##........]`  
+SQL `[##........]`.  
 
 
 ### Инструменты и навыки
@@ -44,9 +44,9 @@ SQL `[##........]`
 
 ### Интересы 
 HTML, CSS, JS.
-Frontend, backend разработка,
+Frontend, backend разработка.
 System administration.
 Python, PHP.
 Linux.  
 PostgreSQL, MongoDB, MySQL. 
-Data Science
+Data Science.
