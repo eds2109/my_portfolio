@@ -12,16 +12,17 @@
 
 ### Языки программирования.
 Python     `[####......]`,    
-HTML/CSS   `[###.......]`, 
-PHP        `[#.........]`,
-JavaScript `[#.........]`.
+HTML/CSS   `[#######...]`, 
+PHP        `[##........]`,
+JavaScript `[##........]`.
 
 
-### Фреймворки, модули python
-Django  `[##........]`,
-Flask   `[#.........]`,
-Scrapy  `[##........]`,
-Tkinter `[##........]`.
+### Фреймворки, модули
+Bootstrap`[#####.....]`,
+Django   `[##........]`,
+Flask    `[#.........]`,
+Scrapy   `[##........]`,
+Tkinter  `[##........]`.
 
 ### Тестирование
 Unit Testing `[###.......]`  
@@ -41,9 +42,11 @@ SQL `[##........]`
 [Git](https://git-scm.com) `[#.........]`.  
 
 
-### Интересы
+### Интересы 
+HTML, CSS, JS
+Frontend, backend разработка,
 System administration,
-Python (Django, Flask, Scrapy),  
+Python, PHP,
 Linux,  
-PostgreSQL, MongoDB,  
+PostgreSQL, MongoDB, MySQL, 
 Data Science
