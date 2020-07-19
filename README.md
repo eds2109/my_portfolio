@@ -22,6 +22,7 @@
 
 ### Фреймворки, модули.
 * Bootstrap`[#####.....]`.
+* Yii2     `[##........]`.
 * Django   `[##........]`.
 * Flask    `[#.........]`.
 * Scrapy   `[##........]`.
@@ -30,16 +31,13 @@
 ### Тестирование.
 Unit Testing `[###.......]`.  
 
-### Хранилища данных.
-SQL `[##........]`.  
-
 
 ### Инструменты и навыки.
 * [System administration](https://en.wikipedia.org/wiki/System_administrator) `[#######...]` - опыт работы более 10 лет.
 * [linux OS](https://www.linux.org) `[#######...]`.
 * [Windows OS](www.microsoft.com/) `[#######...]`.
 * [linux terminal](https://ubuntu.com/tutorials/command-line-for-beginners)`[#####.....]`.
-* [PyCharm](https://www.jetbrains.com/pycharm) `[##.........]`.
+* [PyCharm](https://www.jetbrains.com/pycharm) `[###........]`.
 * [Sublime text](https://www.sublimetext.com) `[#######...]`.
 * [Vim](https://www.vim.org) `[###.......]`.
 * [Git](https://git-scm.com) `[##........]`.  
