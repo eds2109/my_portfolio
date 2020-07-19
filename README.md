@@ -11,7 +11,7 @@
 
 
 ### Языки программирования.
-Python     `[####......]`,    
+Python     `[####......]`,
 HTML/CSS   `[#######...]`, 
 PHP        `[##........]`,
 JavaScript `[##........]`.
@@ -43,10 +43,10 @@ SQL `[##........]`
 
 
 ### Интересы 
-HTML, CSS, JS
+HTML, CSS, JS.
 Frontend, backend разработка,
-System administration,
-Python, PHP,
-Linux,  
-PostgreSQL, MongoDB, MySQL, 
+System administration.
+Python, PHP.
+Linux.  
+PostgreSQL, MongoDB, MySQL. 
 Data Science
