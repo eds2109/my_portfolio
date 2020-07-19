@@ -20,21 +20,21 @@
 * JavaScript `[##........]`.
 
 
-### Фреймворки, модули
+### Фреймворки, модули.
 * Bootstrap`[#####.....]`.
 * Django   `[##........]`.
 * Flask    `[#.........]`.
 * Scrapy   `[##........]`.
 * Tkinter  `[##........]`.
 
-### Тестирование
+### Тестирование.
 Unit Testing `[###.......]`.  
 
-### Хранилища данных
+### Хранилища данных.
 SQL `[##........]`.  
 
 
-### Инструменты и навыки
+### Инструменты и навыки.
 * [System administration](https://en.wikipedia.org/wiki/System_administrator) `[#######...]` - опыт работы более 10 лет.
 * [linux OS](https://www.linux.org) `[#######...]`.
 * [Windows OS](www.microsoft.com/) `[#######...]`.
@@ -45,7 +45,7 @@ SQL `[##........]`.
 * [Git](https://git-scm.com) `[##........]`.  
 
 
-### Интересы 
+### Интересы. 
 * HTML, CSS, JS.
 * Frontend, backend разработка.
 * System administration.
