@@ -40,7 +40,8 @@ Unit Testing `[###.......]`.
 * [PyCharm](https://www.jetbrains.com/pycharm) `[###........]`.
 * [Sublime text](https://www.sublimetext.com) `[#######...]`.
 * [Vim](https://www.vim.org) `[###.......]`.
-* [Git](https://git-scm.com) `[##........]`.  
+* [Git](https://git-scm.com) `[##........]`. 
+* [Gulp](https://gulpjs.com) `[####......]`.
 
 
 ### Интересы. 
