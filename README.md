@@ -44,7 +44,7 @@ Unit Testing `[###.......]`.
 
 
 ### Интересы. 
-* HTML, CSS, JS.
+* HTML, CSS, JS. Nodejs, gulp.
 * Frontend, backend разработка.
 * System administration.
 * Python, PHP.
