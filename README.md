@@ -39,6 +39,7 @@ Unit Testing `[###.......]`.
 * [linux terminal](https://ubuntu.com/tutorials/command-line-for-beginners)`[#####.....]`.
 * [PyCharm](https://www.jetbrains.com/pycharm) `[###........]`.
 * [Sublime text](https://www.sublimetext.com) `[#######...]`.
+* [Brackets](http://brackets.io/) `[#######...]`.
 * [Vim](https://www.vim.org) `[###.......]`.
 * [Git](https://git-scm.com) `[##........]`. 
 * [Gulp](https://gulpjs.com) `[####......]`.
