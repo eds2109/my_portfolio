@@ -1,6 +1,21 @@
 ## portfolio
 ### Профиль моих навыков
 -----------------------
+### Инструменты и навыки.
+* [System administration](https://en.wikipedia.org/wiki/System_administrator) `[#######...]` - опыт работы более 10 лет.
+* [linux OS](https://www.linux.org) `[#######...]`.
+* [Windows OS](www.microsoft.com/) `[#######...]`.
+* [linux terminal](https://ubuntu.com/tutorials/command-line-for-beginners)`[#####.....]`.
+* [Git](https://git-scm.com) `[###.......]`. 
+* [Gulp](https://gulpjs.com) `[####......]`.
+* [БЭМ](https://ru.bem.info/methodology) `[###.......]`.
+
+### Языки программирования.
+* Python     `[####......]`.
+* HTML/CSS   `[#######...]`. 
+* PHP        `[##........]`.
+* JavaScript `[##........]`.
+
 ### Профили.
 [Stepik аккаунт](https://stepik.org/users/242248235)
 
@@ -12,14 +27,6 @@
 * [Stepik. Инди-курс программирования на Python](https://stepik.org/course/63085) `[########..]`.
 * [Stepik. Основы программирования на языке Python в примерах и задачах](https://stepik.org/course/58638) `[#######...]`.
 
-
-### Языки программирования.
-* Python     `[####......]`.
-* HTML/CSS   `[#######...]`. 
-* PHP        `[##........]`.
-* JavaScript `[##........]`.
-
-
 ### Фреймворки, модули.
 * Bootstrap`[#####.....]`.
 * Yii2     `[##........]`.
@@ -30,19 +37,6 @@
 
 ### Тестирование.
 Unit Testing `[###.......]`.  
-
-
-### Инструменты и навыки.
-* [System administration](https://en.wikipedia.org/wiki/System_administrator) `[#######...]` - опыт работы более 10 лет.
-* [linux OS](https://www.linux.org) `[#######...]`.
-* [Windows OS](www.microsoft.com/) `[#######...]`.
-* [linux terminal](https://ubuntu.com/tutorials/command-line-for-beginners)`[#####.....]`.
-* [PyCharm](https://www.jetbrains.com/pycharm) `[###........]`.
-* [Sublime text](https://www.sublimetext.com) `[#######...]`.
-* [Brackets](http://brackets.io/) `[#######...]`.
-* [Vim](https://www.vim.org) `[###.......]`.
-* [Git](https://git-scm.com) `[##........]`. 
-* [Gulp](https://gulpjs.com) `[####......]`.
 
 
 ### Интересы. 
