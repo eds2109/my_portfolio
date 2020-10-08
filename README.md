@@ -20,15 +20,18 @@
 [Stepik аккаунт](https://stepik.org/users/242248235)
 
 ### Серитфикаты.
-[Сертификат Stepik](https://stepik.org/cert/368450)
+[Сертификат Stepik Python](https://stepik.org/cert/368450)
+[Сертификат Stepik HTML/CSS](https://stepik.org/cert/785650)
+)
 
 ### Обучение.
 * [Stepik. Программирование на Python](https://stepik.org/course/67) `[##########]`.
+* [Stepik. Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218) `[##########]`.
 * [Stepik. Инди-курс программирования на Python](https://stepik.org/course/63085) `[########..]`.
 * [Stepik. Основы программирования на языке Python в примерах и задачах](https://stepik.org/course/58638) `[#######...]`.
 
 ### Фреймворки, модули.
-* Bootstrap`[#####.....]`.
+* Bootstrap`[#######...]`.
 * Yii2     `[##........]`.
 * Django   `[##........]`.
 * Flask    `[#.........]`.
