@@ -20,8 +20,8 @@
 [Stepik аккаунт](https://stepik.org/users/242248235)
 
 ### Серитфикаты.
-[Сертификат Stepik Python](https://stepik.org/cert/368450)
-[Сертификат Stepik HTML/CSS](https://stepik.org/cert/785650)
+* [Сертификат Stepik Python](https://stepik.org/cert/368450)
+* [Сертификат Stepik HTML/CSS](https://stepik.org/cert/785650)
 )
 
 ### Обучение.
