@@ -10,6 +10,8 @@
 * [Git](https://git-scm.com) `[###.......]`. 
 * [Gulp](https://gulpjs.com) `[####......]`.
 * [БЭМ](https://ru.bem.info/methodology) `[###.......]`.
+* [Canva](https://www.canva.com/) `[#######...]`.
+* [Figma](https://www.figma.com) `[#####.....]`.
 
 
 ### Языки программирования.
@@ -25,7 +27,6 @@
 * [Сертификат онлайн университиет Атом - трафиколог](https://github.com/eds2109/my_portfolio/blob/master/Sertificat_Atom.png)
 * [Сертификат Stepik Python](https://stepik.org/cert/368450)
 * [Сертификат Stepik HTML/CSS](https://stepik.org/cert/785650)
-
 
 ### Обучение.
 * [Atom. Онлайн университет. Направление - Trafficolog](http://at.university/trafficolog) `[##########]`.
