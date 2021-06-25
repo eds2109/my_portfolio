@@ -12,6 +12,7 @@
 * [БЭМ](https://ru.bem.info/methodology) `[###.......]`.
 * [Canva](https://www.canva.com/) `[#######...]`.
 * [Figma](https://www.figma.com) `[#####.....]`.
+* [Wordpress](https://wordpress.org/) `[#######...]`.
 
 
 ### Языки программирования.
