@@ -20,7 +20,7 @@
 ### Профили.
 [Stepik аккаунт](https://stepik.org/users/242248235)
 
-### Серитфикаты.
+### Сертификаты.
 * [Сертификат Stepik Python](https://stepik.org/cert/368450)
 * [Сертификат Stepik HTML/CSS](https://stepik.org/cert/785650)
 * [Сертификат онлайн университиет Атом - трафиколог](https://github.com/eds2109/my_portfolio/blob/master/Sertificat_Atom.png)
