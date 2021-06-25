@@ -34,7 +34,8 @@
 * [Stepik. Инди-курс программирования на Python](https://stepik.org/course/63085) `[########..]`.
 * [Stepik. Основы программирования на языке Python в примерах и задачах](https://stepik.org/course/58638) `[#######...]`.
 
-### Фреймворки, модули.
+### Фреймворки, модули. CRM. 
+* Wordpress`[#######...]`.
 * Bootstrap`[#######...]`.
 * Yii2     `[##........]`.
 * Django   `[##........]`.
@@ -44,9 +45,8 @@
 ### Тестирование.
 Unit Testing `[###.......]`.  
 
-
 ### Интересы. 
-
+* Маркетинг, реклама. Facebook ads.
 * HTML, CSS, JS. Nodejs, gulp.
 * Frontend, backend разработка.
 * System administration.
