@@ -9,7 +9,7 @@
 * [Git](https://git-scm.com) `[###.......]`. 
 * [Gulp](https://gulpjs.com) `[####......]`.
 * [БЭМ](https://ru.bem.info/methodology) `[###.......]`.
-*  
+* [Facebook ads - target](https://www.facebook.com/) `[#######...]`.
 
 ### Языки программирования.
 * Python     `[####......]`.
