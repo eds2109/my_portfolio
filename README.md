@@ -2,8 +2,8 @@
 ### Профиль моих навыков
 -----------------------
 ### Инструменты и навыки.
-* [Facebook ads - target](https://www.facebook.com/) `[#######...]`.
 * [System administration](https://en.wikipedia.org/wiki/System_administrator) `[#######...]` - опыт работы более 10 лет.
+* [Facebook ads - target](https://www.facebook.com/) `[#######...]`.
 * [linux OS](https://www.linux.org) `[#######...]`.
 * [Windows OS](www.microsoft.com/) `[#######...]`.
 * [linux terminal](https://ubuntu.com/tutorials/command-line-for-beginners)`[#####.....]`.
