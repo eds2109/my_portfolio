@@ -9,7 +9,7 @@
 * [Git](https://git-scm.com) `[###.......]`. 
 * [Gulp](https://gulpjs.com) `[####......]`.
 * [БЭМ](https://ru.bem.info/methodology) `[###.......]`.
-* 
+*  
 
 ### Языки программирования.
 * Python     `[####......]`.
@@ -23,6 +23,7 @@
 ### Серитфикаты.
 * [Сертификат Stepik Python](https://stepik.org/cert/368450)
 * [Сертификат Stepik HTML/CSS](https://stepik.org/cert/785650)
+* [Сертификат онлайн университиет Атом - трафиколог](https://github.com/eds2109/my_portfolio/blob/master/Sertificat_Atom.png)
 
 ### Обучение.
 * [Stepik. Программирование на Python](https://stepik.org/course/67) `[##########]`.
