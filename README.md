@@ -12,17 +12,16 @@
 * [БЭМ](https://ru.bem.info/methodology) `[###.......]`.
 * [Canva](https://www.canva.com/) `[#######...]`.
 * [Figma](https://www.figma.com) `[#####.....]`.
-* [Wordpress](https://wordpress.org/) `[#######...]`.
+* [Wordpress](https://wordpress.org/) `[#####.....]`.
+* [Angular cli](https://angular.io/cli) `[###.......]`. 
 
 
 ### Языки программирования.
-* Python     `[####......]`.
-* HTML/CSS   `[#######...]`. 
-* PHP        `[##........]`.
-* JavaScript `[##........]`.
-
-### Профили.
-[Stepik аккаунт](https://stepik.org/users/242248235)
+* Python          `[####......]`.
+* HTML/CSS/SASS   `[#######...]`. 
+* PHP             `[##........]`.
+* JavaScript      `[##........]`.
+* TypeScript      `[##........]`.
 
 ### Сертификаты.
 * [Сертификат онлайн университиет Атом - трафиколог](https://github.com/eds2109/my_portfolio/blob/master/Sertificat_Atom.png)
@@ -37,22 +36,20 @@
 * [Stepik. Основы программирования на языке Python в примерах и задачах](https://stepik.org/course/58638) `[#######...]`.
 
 ### Фреймворки, модули. CRM. 
-* Wordpress`[#######...]`.
+* Angular  `[##........]`. 
+* Wordpress`[#####.....]`.
 * Bootstrap`[#######...]`.
 * Yii2     `[##........]`.
 * Django   `[##........]`.
 * Scrapy   `[##........]`.
 * Tkinter  `[##........]`.
 
-### Тестирование.
-Unit Testing `[###.......]`.  
-
 ### Интересы. 
 * Маркетинг, реклама. Facebook ads.
-* HTML, CSS, JS. Nodejs, gulp.
+* HTML, CSS, JS. Nodejs, gulp, Angular.
 * Frontend, backend разработка.
 * System administration.
-* Python, PHP.
+* Python, PHP, JavaScript, TypeScript.
 * Linux.  
 * PostgreSQL, MongoDB, MySQL. 
 * Data Science.
