@@ -7,21 +7,20 @@
 * [linux OS](https://www.linux.org) `[#######...]`.
 * [Windows OS](www.microsoft.com/) `[#######...]`.
 * [linux terminal](https://ubuntu.com/tutorials/command-line-for-beginners)`[#####.....]`.
-* [Git](https://git-scm.com) `[###.......]`. 
+* [Git](https://git-scm.com) `[#####.....]`. VCR (Version Control System).
+* [Github](https://github.com/)  `[#####.....]`.
 * [Gulp](https://gulpjs.com) `[####......]`.
-* [БЭМ](https://ru.bem.info/methodology) `[###.......]`.
+* [БЭМ](https://ru.bem.info/methodology) `[#####.....]`.
 * [Canva](https://www.canva.com/) `[#######...]`.
 * [Figma](https://www.figma.com) `[#####.....]`.
 * [Wordpress](https://wordpress.org/) `[#####.....]`.
-* [Angular cli](https://angular.io/cli) `[###.......]`. 
+* [Python Django](https://www.djangoproject.com/) `[###.......]`. 
 
 
 ### Языки программирования.
 * Python          `[####......]`.
 * HTML/CSS/SASS   `[#######...]`. 
-* PHP             `[##........]`.
 * JavaScript      `[##........]`.
-* TypeScript      `[##........]`.
 
 ### Сертификаты.
 * [Сертификат онлайн университиет Атом - трафиколог](https://github.com/eds2109/my_portfolio/blob/master/Sertificat_Atom.png)
@@ -36,20 +35,18 @@
 * [Stepik. Основы программирования на языке Python в примерах и задачах](https://stepik.org/course/58638) `[#######...]`.
 
 ### Фреймворки, модули. CRM. 
-* Angular  `[##........]`. 
 * Wordpress`[#####.....]`.
 * Bootstrap`[#######...]`.
-* Yii2     `[##........]`.
 * Django   `[##........]`.
 * Scrapy   `[##........]`.
 * Tkinter  `[##........]`.
 
 ### Интересы. 
 * Маркетинг, реклама. Facebook ads.
-* HTML, CSS, JS. Nodejs, gulp, Angular.
+* HTML, CSS, JS. Nodejs, gulp, Django.
 * Frontend, backend разработка.
 * System administration.
-* Python, PHP, JavaScript, TypeScript.
+* Python, PHP, JavaScript.
 * Linux.  
 * PostgreSQL, MongoDB, MySQL. 
 * Data Science.
